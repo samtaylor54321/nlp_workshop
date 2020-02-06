@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Remove idea files
+*.idea/
+*.DS_STORE
+
 # Distribution / packaging
 .Python
 build/
